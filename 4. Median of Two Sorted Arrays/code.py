@@ -13,6 +13,10 @@ class Solution:
             m_index.append(aver_len)
 
 
+'''
+test
+'''
+
 
 
 if __name__ == '__main__':
