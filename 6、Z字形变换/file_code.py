@@ -42,7 +42,6 @@ class Solution:
         return ''.join([''.join(val) for val in arr_str.values()])
 
 
-
 if __name__ == "__main__":
     solution = Solution()
     string = 'LEETCODEISHIRING'
